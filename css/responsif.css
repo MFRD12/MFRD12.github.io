@@ -1,0 +1,138 @@
+@media (max-width: 768px) {
+
+    section h1 {
+        font-size: 2rem !important;
+    }
+
+    section hr {
+        width: 45% !important;
+    }
+
+    #project hr {
+        width: 80% !important;
+    }
+
+    /*home*/
+    #home img {
+        width: 70% !important;
+        margin-bottom: 30px;
+    }
+
+    .btn-cv {
+        width: 50%;
+        margin: 30px 0px !important;
+    }
+
+    .sosial-icon {
+        margin-bottom: 20px;
+    }
+    /*end home*/
+
+    /*about*/
+    #about p {
+        font-size: 16px !important;
+    }
+    /*end about*/
+
+    /*education */
+    .icon-edu {
+        text-align: center;
+    }
+    .icon-edu img {
+        width: 60%;
+    }
+    .icon-edu p {
+        text-align: center;
+    }
+    /*end education*/
+
+    /*skill*/
+    img.lang-img {
+        width: 15% !important;
+        margin: 25px !important ;
+    }
+    
+    img.frame-img {
+        width: 35% !important;
+        margin: 25px !important;
+    }
+    
+    img.others-img {
+        width: 15% !important;
+        margin: 25px !important;
+    }
+    /*skill*/
+
+    .kontak-gmail {
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (max-width : 576px) {
+
+    section h1 {
+        font-size: 2rem !important;
+    }
+
+    section hr {
+        width: 45% !important;
+    }
+
+    #project hr {
+        width: 80% !important;
+    }
+
+    /*home*/
+    #home img {
+        width: 70% !important;
+        margin-bottom: 30px;
+    }
+
+    .btn-cv {
+        width: 50%;
+        margin: 30px 0px !important;
+    }
+
+    .sosial-icon {
+        margin-bottom: 20px;
+    }
+    /*end home*/
+
+    /*about*/
+    #about p {
+        font-size: 16px !important;
+    }
+    /*end about*/
+
+    /*education*/
+    .icon-edu img {
+        width: 50%; 
+    }
+    .icon-edu p {
+        font-size: 16px; 
+        text-align: center;
+    }
+    /*end education*/
+    
+    /*skill*/
+    img.lang-img {
+        width: 15% !important;
+        margin: 25px !important ;
+    }
+    
+    img.frame-img {
+        width: 35% !important;
+        margin: 25px !important;
+    }
+    
+    img.others-img {
+        width: 15% !important;
+        margin: 25px !important;
+    }
+    /*skill*/
+
+    .kontak-gmail {
+        margin-bottom: 20px;
+    }
+}
+
